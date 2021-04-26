@@ -107,5 +107,7 @@ CREATE MATERIALIZED VIEW tweet_tags_cooccurrence AS (
     ORDER BY total DESC
 );
 
-COMMIT;
 
+
+
+COMMIT;
